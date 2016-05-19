@@ -1,2 +1,3 @@
 # hello_world
-learning git
+
+I'm learning git and I like coffee.
